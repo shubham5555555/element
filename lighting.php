@@ -164,7 +164,7 @@
                                     <div class="row">
                                         <div class="col-md-4 mb-3 ">
                                             <div class="card ">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard1.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/11.png" loading="lazy">
                                                 <div class="card-body ">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -175,7 +175,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard2.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/12.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -186,7 +186,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard3.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/13.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -202,7 +202,7 @@
                                     <div class="row">
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/lb4.jpg" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/11.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -213,7 +213,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/lb3.jpg" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/12.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -224,7 +224,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/lb1.jpg" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/13.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -241,7 +241,7 @@
 
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/lb4.jpg" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/11.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -254,7 +254,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/lb1.jpg" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/12.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -266,7 +266,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/lb2.jpg" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/13.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.

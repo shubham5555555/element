@@ -78,7 +78,7 @@
     <section>
         <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
             <div class="carousel-inner">
-               <div class="carousel-item cara-img bg-img-3 active">
+               <div class="carousel-item cara-img bg-img-6 active">
                <div style="background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);width:100%;height:100%;display:flex;justify-content:center;align-items:center">
 
                   Home Automation
@@ -109,41 +109,41 @@
     <section>
         <div class="conatiner bgimgpd">
             <div class="text-center">
-                <img src="assets/img/contimg1.webp" loading="lazy" alt="" width="80%">
+                <img src="assets/img/ha1.jpg" loading="lazy" alt="" width="80%">
             </div>
 
 
         </div>
         <div class="conatiner bgimgpd">
             <div class="text-center">
-                <img src="assets/img/contimg2.webp" loading="lazy" alt="" width="80%">
+                <img src="assets/img/ha2.jpg" loading="lazy" alt="" width="80%">
             </div>
 
 
         </div>
         <div class="conatiner bgimgpd">
             <div class="text-center">
-                <img src="assets/img/contimg3.webp" loading="lazy" alt="" width="80%">
+                <img src="assets/img/ha3.jpg" loading="lazy" alt="" width="80%">
             </div>
 
 
         </div>
         <div class="conatiner bgimgpd">
             <div class="text-center">
-                <img src="assets/img/contimg4.webp" loading="lazy" alt="" width="80%">
+                <img src="assets/img/ha4.jpg" loading="lazy" alt="" width="80%">
             </div>
 
 
         </div>
         <div class="conatiner bgimgpd">
             <div class="text-center">
-                <img src="assets/img/contimg5.webp" loading="lazy" alt="" width="80%">
+                <img src="assets/img/ha2.jpg" loading="lazy" alt="" width="80%">
             </div>
 
         </div>
         <div class="conatiner bgimgpd">
             <div class="text-center">
-                <img src="assets/img/contimg6.webp" loading="lazy" alt="" width="80%">
+                <img src="assets/img/ha1.jpg" loading="lazy" alt="" width="80%">
             </div>
 
         </div>
@@ -164,7 +164,7 @@
                                     <div class="row">
                                         <div class="col-md-4 mb-3 ">
                                             <div class="card ">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard1.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/111.png" loading="lazy">
                                                 <div class="card-body ">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -175,7 +175,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard2.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/222.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -186,7 +186,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard3.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/333.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -202,7 +202,7 @@
                                     <div class="row">
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard4.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/111.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -213,7 +213,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard1.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/222.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -224,7 +224,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard2.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/333.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -241,7 +241,7 @@
 
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard3.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/111.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -254,7 +254,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard4.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/222.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">creative design</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
@@ -266,7 +266,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/projectcard1.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/333.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.
