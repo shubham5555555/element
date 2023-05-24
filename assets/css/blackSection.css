@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.black{
+    background-color: black;
+    height: 100vh;
+    align-items: center;
+    
+    display: flex;
+}
+.black h1{
+    color: rgb(255, 255, 255);
+    font-size: 52px;
+
+    font-family: 'Jost', sans-serif;
+}
+.black p{
+    color: white;
+    font-size: 22px;
+    font-family: 'Jost', sans-serif;
+}
+.texts{
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+ 
+.isec{
+    background-color: black;
+}
+/* main style */

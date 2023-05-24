@@ -1,0 +1,383 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.leftshare {
+  overflow: hidden;
+  min-height: 10px;
+  /* border: 2px dashed blue;     */
+}
+
+.gh {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.hide-desktop {
+  display: none;
+}
+
+.hide-mobile {
+  display: block;
+}
+
+.right {
+  float: right;
+  min-height: 50px;
+  margin-left: 10px;
+  margin-top: 12rem;
+  /* border: 2px dashed red; */
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+ul.s {
+  list-style-type: none;
+  font-size: calc(1.375rem + 1.5vw);
+
+
+
+}
+
+.s li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+
+@media only screen and (max-width: 980px) {
+  .right {
+    display: none !important;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .containerreex {
+    padding-top: 2rem;
+    width: unset;
+    margin-left: unset;
+    margin-top: unset;
+  }
+
+  .mtj {
+    padding-top: 2rem;
+  }
+
+  .leftshare {
+    float: left;
+    width: 100%;
+  }
+
+  .wrapper {
+    width: 100%;
+    position: relative;
+    float: left;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+  }
+
+  div.wrapper>div {
+    position: relative;
+    float: right;
+    display: block;
+    min-height: 50px;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+  }
+
+  .containerbang {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: unset;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 90%;
+  }
+
+  .footer-left {
+    float: left;
+    transform: translate(0%, 0);
+  }
+
+  .hide-mobile1 {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 870px) and (max-width: 1350px) {
+  .numbertext1 h1 {
+    font-size: calc(2rem + 0.2vw);
+  }
+
+  .numbertext1 h3 {
+    font-size: calc(1rem + 0.2vw);
+  }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 870px) {
+  .numbertext1 h1 {
+    font-size: calc(1rem + 0.2vw);
+  }
+
+  .numbertext1 h3 {
+    font-size: calc(1rem + 0.2vw);
+  }
+
+  .btn-success {
+    size: calc(1rem + 0.2vw);
+  }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 990px) {
+  .footer-left {
+    float: left;
+    transform: translate(15%, 0);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .hide-desktop {
+    display: block;
+  }
+
+  .hide-mobile1 {
+    display: none;
+  }
+
+  .hide-mobile {
+    display: none;
+  }
+
+  .gh {
+    display: flex;
+    align-items: inherit;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .social {
+    font-size: calc(1rem + 0.2vw) !important;
+  }
+
+  .ab {
+    font-size: calc(2rem + 2vw) !important;
+  }
+
+  .heading-set {
+    font-size: calc(2rem + 2vw);
+    font-family: "Montserrat";
+  }
+
+  .numbertext {
+    font-size: calc(1rem + 2vw);
+    padding: 5px;
+  }
+
+  .numbertext1 {
+    padding: 15px 15px;
+    position: absolute;
+  }
+
+  .btn-s {
+    font-size: calc(0.5rem + 0.2vw);
+  }
+
+  /* .img-set {
+    width: 70%;
+    height: auto;
+  } */
+  
+
+  .project {
+    font-family: "Montserrat", sans-serif;
+
+    font-size: calc(2rem + 0.2vw);
+    font-weight: 700;
+  }
+
+  .feature-img {
+    width: 100% !important;
+    height: 60% !important;
+  }
+
+  .abb1 h3 {
+    padding-left: 1rem;
+    float: left;
+    font-weight: 600;
+  }
+
+  .abp1 {
+    padding-left: 1rem;
+    float: left;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .about-p {
+    padding-left: 15px !important;
+  }
+
+  .abb1 img {
+    width: 100%;
+  }
+
+  .pdspan h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+  }
+
+  .pdspan h5 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem !important;
+  }
+
+  .procon {
+    height: 100%;
+
+    max-width: 80% !important;
+  }
+
+  .portimg {
+
+    padding: 15px !important;
+  }
+
+  .centered1 h1 {
+
+    font-size: calc(2rem + 0.2vw);
+    font-weight: 700;
+
+  }
+}
+
+@media only screen and (min-width: 860px) {
+  .footer-left {
+    float: left;
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .p-set {
+    padding: 0px;
+  }
+
+  .containerbang {
+    width: 100%;
+  }
+
+  ul {
+    padding: 1rem;
+
+    color: #fff !important;
+
+  }
+
+  .mtj {
+    padding-top: 0.5rem;
+  }
+
+
+  .glimpse h1 {
+    color: #ffffff;
+    font-family: 'Jost', sans-serif !important;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    text-align: center;
+  }
+
+  .glimpse h2 {
+    color: #ffffff;
+    font-family: 'Jost', sans-serif !important;
+    font-size: 18px;
+    font-weight: 400 !important;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-top: 8px;
+  }
+
+  .containerbang {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: unset;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 90%;
+    padding:10px !important;
+}
+
+.containerbang h1{
+  font-family: 'Jost', sans-serif;
+    font-size:33px !important;
+}
+
+.project{
+  padding:5px !important;
+  margin-top:10px !important;
+}
+
+  .hide-mobile {
+    display: block !important;
+}
+
+  .glimpse h3 {
+    color: #ffffff;
+    font-family: 'Jost', sans-serif !important;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 46px;
+    letter-spacing: 0px;
+    text-align: center;
+  }
+
+  .hide-desktop {
+    display: none;
+}
+
+  .how-section1 .row {
+
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+   
+    margin-right: -15px;
+    margin-left: -15px;
+    background-color: #f5f5f5 !important;
+  }
+}
+
+
+.mobilenav {
+  color: #fff !important;
+}
+
+header .navbar .nav-link {
+  padding: 0.5rem 1rem !important;
+}
+
+
+
+
+
+@media only screen and (min-width: 800px) and (max-width: 927px) {
+  .footer-left {
+    float: left;
+    transform: translate(0%, 0);
+  }
+}
