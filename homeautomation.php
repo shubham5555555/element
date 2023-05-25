@@ -79,7 +79,7 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
             <div class="carousel-inner">
                <div class="carousel-item cara-img bg-img-6 active">
-               <div style="background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);width:100%;height:100%;display:flex;justify-content:center;align-items:center">
+               <div class="cara-text">
 
                   Home Automation
     </div>
@@ -107,7 +107,7 @@
     </section>
 
     <section>
-        <div class="conatiner bgimgpd">
+        <div class="conatiner bgimgpd ">
             <div class="text-center">
                 <img src="assets/img/ha1.jpg" loading="lazy" alt="" width="80%">
             </div>

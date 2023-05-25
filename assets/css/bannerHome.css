@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
 a:hover{text-decoration:none}
 h3{border:2px solid #eee;padding:10px 15px;display:inline-block;font-size:18px;color:#fff ; background-color: black;padding: 20px;}
-.grey-background{padding:40px 0;background: black;}
+.grey-background{
+    padding:40px 0;
+    width: 100%;
+    background: white;
+}
 .pp{font-family: 'Playfair Display', serif; padding: 20px;font-size: 20px;}
 /*boxes*/
 .article-box {position: relative;color: rgb(0, 0, 0);padding: 20px;}

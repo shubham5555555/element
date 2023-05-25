@@ -125,7 +125,7 @@
                         <p class="text-muted1">Do you realize that if you fall into a black hole, you will see the entire future of the Universe unfold in front of you in a matter of moments
                            and you will emerge into another space-time created by the singularity of the black hole you just fell into?
                         </p>
-                        <a href="#"> <button class="mt-lg-5 mt-md-3 mt-4   btn-s pe-5 btn btn-success" style="color: #FFFFFF; background-color: #EF7F1A; border-color:#EF7F1A;">About Us
+                        <a href="about.php"> <button class="mt-lg-5 mt-md-3 mt-4   btn-s pe-5 btn btn-success" style="color: #FFFFFF; background-color: #EF7F1A; border-color:#EF7F1A;">About Us
                               <img src="assets/img/Arrow.svg" alt=""></button></a>
                      </div>
                   </ul>
@@ -161,7 +161,7 @@
             <div class="card mt-5">
                <img class="card-img-top" src="assets/img/element/a21.png" loading="lazy" alt="Card image cap">
                <div class="card-body p-4">
-                  <p class="card-muted titemaingo">Audio & Video</p>
+                  <p class="card-muted titemaingo">Modular Kitchen</p>
                   <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
                </div>
             </div>
@@ -172,6 +172,13 @@
                   <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
                </div>
             </div>
+            <div class="card mt-5">
+               <img class="card-img-top" src="assets/img/element/a21.png" loading="lazy" alt="Card image cap">
+               <div class="card-body p-4">
+                  <p class="card-muted titemaingo">theater And Audio-visual Solution</p>
+                  <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
+               </div>
+            </div>   
          </div>
       </div>
       <!-- <div class="mt-5 text-center">
@@ -267,10 +274,10 @@
   <div class="row">
     <div class="col-sm-3">
       <div class="article-box">
-        <a href="#">
-          <div class="image"><img src="https://www.journal-theme.com/9/image/cache/catalog/journal3/products/home/545048-300x250w.jpeg.webp"></div>
+        <a href="homeautomation.php">
+          <div class="image"><img src="assets/img/111.png"></div>
           <div class="description">
-            <div class="name">Deco</div>
+            <div class="name">Home Automation</div>
 
           </div>
         </a>
@@ -278,10 +285,10 @@
     </div><!--col-sm-3-->
     <div class="col-sm-3">
       <div class="article-box">
-        <a href="#">
-          <div class="image"><img src="https://www.journal-theme.com/9/image/cache/catalog/journal3/products/home/arm-300x250w.jpg.webp"></div>
+        <a href="modularkitchen.php">
+          <div class="image"><img src="assets/img/31.png"></div>
           <div class="description">
-            <div class="name">Armchair</div>
+            <div class="name">Modualr Kitchen</div>
 
           </div>
         </a>
@@ -289,10 +296,10 @@
     </div><!--col-sm-3-->
     <div class="col-sm-3">
       <div class="article-box">
-        <a href="#">
-          <div class="image"><img src="https://www.journal-theme.com/9/image/cache/catalog/journal3/products/home/decor-300x250w.jpg.webp"></div>
+        <a href="lighting.php">
+          <div class="image"><img src="assets/img/13.png"></div>
           <div class="description">
-            <div class="name">Decoration</div>
+            <div class="name">Lighting</div>
 
           </div>
         </a>
@@ -300,10 +307,10 @@
     </div><!--col-sm-3-->
     <div class="col-sm-3">
       <div class="article-box">
-        <a href="#">
-          <div class="image"><img src="https://www.journal-theme.com/9/image/cache/catalog/journal3/products/home/table-300x250w.jpg.webp"></div>
+        <a href="Theatres.php">
+          <div class="image"><img src="assets/img/1.png"></div>
           <div class="description">
-            <div class="name">Table</div>
+            <div class="name">Audio And Theater</div>
 
           </div>
         </a>

@@ -6850,6 +6850,51 @@ a.close.disabled {
   transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
 }
 
+@media (min-width: 576px) { 
+  .c-text{
+    background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ };
+@media (min-width: 768px) { 
+  .c-text{
+    background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ 
+  
+ }
+
+@media (min-width: 992px) {
+  .c-text{
+    background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ }
+
+@media (min-width: 1200px) {
+  .c-text{
+    background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ }
+
 @media (prefers-reduced-motion: reduce) {
   .carousel-item {
     transition: none;

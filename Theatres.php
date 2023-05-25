@@ -79,7 +79,7 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
             <div class="carousel-inner">
                <div class="carousel-item cara-img bg-img-4 active">
-               <div style="background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);width:100%;height:100%;display:flex;justify-content:center;align-items:center">
+               <div class="cara-text">
 
                Theatres and audio-visual solutions
     </div>
@@ -266,7 +266,7 @@
                                         </div>
                                         <div class="col-md-4 mb-3">
                                             <div class="card">
-                                                <img class="img-fluid" alt="100%x280" src="assets/img/3.png.webp" loading="lazy">
+                                                <img class="img-fluid" alt="100%x280" src="assets/img/3.png" loading="lazy">
                                                 <div class="card-body">
                                                     <h4 class="card-title">dreaming midnight</h4>
                                                     <p class="card-text">Sed vel eros quis mauris iaculis imperdiet.

@@ -1070,18 +1070,72 @@ header .navbar .dropdown-menu a:hover {
 .cara-img {
   
   height: 50vh;
+  width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   justify-content: center;
   align-items: center;
   display: flex;
-  font-size: 60px;
+  
   color: white;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
-  background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%),
 }
+.cara-text{
+  background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);
+  width: 100vw;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  
+
+}
+
+@media (min-width: 576px) { 
+  .cara-img{
+    width:100vw;
+    height: 50vh;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ };
+@media (min-width: 768px) { 
+  .cara-img{
+    width:100vw;
+    height: 50vh;
+    display:flex;
+    font-size: 60px;
+    justify-content:center;
+    align-items:center
+  }
+ 
+  
+ }
+
+@media (min-width: 992px) {
+  .cara-img{
+    width:100vw;
+    height: 50vh;
+    font-size: 60px;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ }
+
+@media (min-width: 1200px) {
+  .cara-img{
+    width:100vw;
+    height: 50vh;
+    font-size: 60px;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+ }
 .p{
   width: 100%;
   height: 100%;

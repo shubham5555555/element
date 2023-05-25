@@ -27,7 +27,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link px-3 text-white mobilenav" href="contactus.php">Contact Us</a>
+                    <a class="nav-link px-3 text-white mobilenav" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link px-3 text-white mobilenav" href="about.php">About Us</a>

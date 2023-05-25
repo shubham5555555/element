@@ -77,9 +77,23 @@
 
 </head>
 
-<body s>
+<body >
 
     <?php include 'layouts/header.php'; ?>
+    <section>
+        <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
+            <div class="carousel-inner">
+               <div class="carousel-item cara-img bg-img-3 active">
+               <div class="cara-text">
+
+                  Contact Us
+    </div>
+                </div>
+   
+                
+            </div>
+        </div>
+    </section>
     <section >
 
         <div style="background:black" class="content">

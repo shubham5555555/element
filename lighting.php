@@ -79,7 +79,7 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
             <div class="carousel-inner">
                <div class="carousel-item cara-img bg-img-3 active">
-               <div style="background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);width:100%;height:100%;display:flex;justify-content:center;align-items:center">
+               <div class="cara-text">
 
                Lightings
     </div>
