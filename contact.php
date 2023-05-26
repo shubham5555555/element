@@ -149,15 +149,15 @@
                             <ul class="list-unstyled">
                                 <li class="d-flex">
                                     <span class="text-white icon-room mr-3"><iconify-icon icon="material-symbols:location-on-outline-rounded" width="30"></iconify-icon></span>
-                                    <span class="textcon">No. 16/1 Bingipura Koppa Begur Main Road, Jigani Banglore-560105.</span>
+                                    <span class="textcon">A-20/2, Sector 1, Shankar Nagar, Raipur, Chhattisgarh 492001</span>
                                 </li>
                                 <li class="d-flex">
                                     <span class="text-white icon-phone mr-3"><iconify-icon icon="material-symbols:call" width="30"></iconify-icon></span>
-                                    <span class="textcon">+91 9880142136</span>
+                                    <span class="textcon">+91 9999999999</span>
                                 </li>
                                 <li class="d-flex">
                                     <span class="text-white icon-envelope mr-3"><iconify-icon icon="ic:round-mail-outline" width="30"></iconify-icon></span>
-                                    <span class="textcon"><a href="#" class="text-white" data-cfemail="#">makinginteriors@gmail.com</a></span>
+                                    <span class="textcon"><a href="#" class="text-white" data-cfemail="#">elements@gmail.com</a></span>
                                 </li>
                             </ul>
                         </div>

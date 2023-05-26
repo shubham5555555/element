@@ -79,6 +79,7 @@
 <body>
 
     <?php include 'layouts/header.php'; ?>
+    
     <section class="img-fluid">
         <div class="abouthead img-fluid">
             <div class="centered">
@@ -98,7 +99,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-6 col-sm-12 abb">
                 <h1><span style='font-size:25px; color:#e4883a'>&#9632;</span> A few words <br>
-                    about me</h1>
+                    about us</h1>
 
             </div>
             <div class="col-md-6 col-lg-6 col-sm-12 abb1">
@@ -129,19 +130,19 @@
                 <div class="aboutlist">
                     <ul>
                         <li>
-                            Commercial
+                            Automation
                         </li>
                         <li>
-                            Interior Designing
+                            Modular Kitchen
                         </li>
                     </ul>
 
                     <ul>
                         <li>
-                            Installation
+                            Lighting
                         </li>
                         <li>
-                            false Ceilings
+                            Theater And Audio
                         </li>
                     </ul>
                 </div>
@@ -166,7 +167,7 @@
                 </div>
                 <div class="col-md-6 col-lg-6 abb1 mt-5">
                     <img src="assets/img/feature2.webp" loading="lazy" alt="..." class="feature-img">
-                    <h3>pretty creative ideas</h3>
+                    <h3 class="heade">pretty creative ideas</h3>
                     <p class="abp1">
                         Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla
                         facilisi

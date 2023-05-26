@@ -17,7 +17,7 @@
                 </span>
             </p>
 
-            <h3>For project enquiries or art commissions, <br>
+            <h3 class="hello">For project enquiries or art commissions, <br>
                 <strong> Call +91 9009-566516 </strong>
             </h3>
             <!-- <h3> 

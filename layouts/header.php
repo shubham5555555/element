@@ -27,18 +27,16 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link px-3 text-white mobilenav" href="contact.php">Contact</a>
+                    <a class="nav-link px-3 text-white mobilenav" href="contact.php">Contact Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link px-3 text-white mobilenav" href="about.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-3 text-white mobilenav" href="#">Gallery</a>
+                        <a class="nav-link px-3 text-white mobilenav" href="certificate.php">Certifications</a>
                     </li>
 
-                    <li class="nav-item sideline">
-                        <a class="nav-link px-3 text-white mobilenav" href="#"><img src="assets/img/element/Vector.svg"/></a>
-                    </li>
+                   
                     <!-- <li class="nav-item">
                         <a class="nav-link px-3 text-white mobilenav" href="tel:+91 8951047475"><img src="assets/img/call.svg" alt="call icon" width="20"> +91 8951047475</a>
                     </li> -->

@@ -175,7 +175,7 @@
             <div class="card mt-5">
                <img class="card-img-top" src="assets/img/element/a21.png" loading="lazy" alt="Card image cap">
                <div class="card-body p-4">
-                  <p class="card-muted titemaingo">theater And Audio-visual Solution</p>
+                  <p class="card-muted titemaingo">Theater And Audio-visual Solution</p>
                   <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
                </div>
             </div>   
@@ -262,67 +262,7 @@
          <a href="blog.php"> <button class="   pe-5 btn btn-success" style="color: #FFFFFF; background-color: #d3011c; border-color:#d3011c;">Read More <img src="assets/img/Arrow.svg" alt=""></button></a>
       </div> -->
    </section>
-   <section>
-   <div class="grey-background mt-5 mb-5">
-<div class="container">
-  <div class="row">
-    <div class="col my-3">
-      <h3>Featured categories</h3>
-      <p class="pp">Our hot drops, selected with love and passion.</p>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-3">
-      <div class="article-box">
-        <a href="homeautomation.php">
-          <div class="image"><img src="assets/img/111.png"></div>
-          <div class="description">
-            <div class="name">Home Automation</div>
-
-          </div>
-        </a>
-      </div><!-- article-box -->
-    </div><!--col-sm-3-->
-    <div class="col-sm-3">
-      <div class="article-box">
-        <a href="modularkitchen.php">
-          <div class="image"><img src="assets/img/31.png"></div>
-          <div class="description">
-            <div class="name">Modualr Kitchen</div>
-
-          </div>
-        </a>
-      </div><!-- article-box -->
-    </div><!--col-sm-3-->
-    <div class="col-sm-3">
-      <div class="article-box">
-        <a href="lighting.php">
-          <div class="image"><img src="assets/img/13.png"></div>
-          <div class="description">
-            <div class="name">Lighting</div>
-
-          </div>
-        </a>
-      </div><!-- article-box -->
-    </div><!--col-sm-3-->
-    <div class="col-sm-3">
-      <div class="article-box">
-        <a href="Theatres.php">
-          <div class="image"><img src="assets/img/1.png"></div>
-          <div class="description">
-            <div class="name">Audio And Theater</div>
-
-          </div>
-        </a>
-      </div><!-- article-box -->
-    </div><!--col-sm-3--> 
-    
-  </div>
-</div>
-</div><!--grey-background-->
-   </section>
-
-
+  
    <section class="mt-5 py-5 ">
       <div class="container-fluid" style="height: 90vh; background-image:url('assets/img/element/studio/d3.jpg');  background-repeat: no-repeat; background-size: cover;  ">
          <div class="glimpse ">
@@ -396,31 +336,31 @@
       <div class="container " style="
     padding-bottom: 120px" >
          <div class="row">
-            <div class="col-md-6  col-lg-4 ">
+            <div class="col-md-6  col-lg-4 p-2">
                <img src="assets/img/element/studio/d5.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4 p-2 ">
                <img src="assets/img/element/studio/d15.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4 p-2 ">
                <img src="assets/img/element/studio/d12.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4  p-2">
                <img src="assets/img/element/studio/d10.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4  p-2">
                <img src="assets/img/element/studio/d9.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4  p-2">
                <img src="assets/img/element/studio/d10.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4  p-2">
                <img src="assets/img/element/studio/d11.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4 p-2 ">
                <img src="assets/img/element/studio/d12.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
-            <div class="col-md-6  col-lg-4  ">
+            <div class="col-md-6  col-lg-4 p-2   ">
                <img src="assets/img/element/studio/d15.jpg" loading="lazy" class="img-fluid" alt="image">
             </div>
          </div>

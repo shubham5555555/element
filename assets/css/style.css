@@ -479,7 +479,7 @@ span {
 
 .glimpse h1 {
   color: #ffffff;
-  font-family:'Jost', sans-serif !important;
+  font-family: 'Jost', sans-serif !important;
   font-size: 38px;
   font-weight: 700;
   letter-spacing: 0px;
@@ -493,12 +493,12 @@ span {
   font-weight: 400 !important;
   letter-spacing: 0px;
   text-align: center;
-  padding-top:8px;
+  padding-top: 8px;
 }
 
 .glimpse h3 {
   color: #ffffff;
-  font-family:'Jost', sans-serif !important;
+  font-family: 'Jost', sans-serif !important;
   font-size: 18px;
   font-weight: 400;
   line-height: 46px;
@@ -615,7 +615,7 @@ span {
 .footer-distributed {
   width: 100%;
   height: 100vh;
-  
+
 }
 
 /* .footer-distributed .home {
@@ -645,7 +645,7 @@ span {
 
 .footer-distributed h3 {
   font-family: "Montserrat", sans-serif;
-color:#fff;
+  color: #fff;
   font-size: 28px;
   font-weight: 400;
   margin-top: 8rem;
@@ -1057,18 +1057,21 @@ header .navbar .dropdown-menu a:hover {
 .bg-img-3 {
   background-image: url("../img/lightingBanner.jpg");
 }
+
 .bg-img-4 {
   background-image: url("../img/theaterbanner.jpg");
 }
+
 .bg-img-5 {
   background-image: url("../img/kitchenbanner.jpg");
 }
+
 .bg-img-6 {
   background-image: url("../img/ha3.jpg");
 }
 
 .cara-img {
-  
+
   height: 50vh;
   width: 100vw;
   background-repeat: no-repeat;
@@ -1077,66 +1080,75 @@ header .navbar .dropdown-menu a:hover {
   justify-content: center;
   align-items: center;
   display: flex;
-  
   color: white;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
 }
-.cara-text{
+
+.cara-text {
   background: linear-gradient(212.41deg, rgba(0, 0, 0, 0.8) 25.77%, rgba(0, 0, 0, 0) 89.77%);
   width: 100vw;
   height: 50vh;
   justify-content: center;
   align-items: center;
   display: flex;
-  
+  text-align: center;
+  font-size: 48px;
+
 
 }
 
-@media (min-width: 576px) { 
-  .cara-img{
-    width:100vw;
+@media (min-width: 576px) {
+  .cara-text {
+    width: 100vw;
     height: 50vh;
-    display:flex;
-    justify-content:center;
-    align-items:center
+    font-size: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center
   }
- };
-@media (min-width: 768px) { 
-  .cara-img{
-    width:100vw;
+}
+
+;
+
+@media (min-width: 768px) {
+  .cara-text {
+    width: 100vw;
     height: 50vh;
-    display:flex;
-    font-size: 60px;
-    justify-content:center;
-    align-items:center
+    font-size: 42px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center
   }
- 
-  
- }
+
+
+}
 
 @media (min-width: 992px) {
-  .cara-img{
-    width:100vw;
+  .cara-text {
+    width: 100vw;
     height: 50vh;
-    font-size: 60px;
-    display:flex;
-    justify-content:center;
-    align-items:center
+    font-size: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center
   }
- }
+}
 
 @media (min-width: 1200px) {
-  .cara-img{
-    width:100vw;
+  .cara-text {
+    width: 100vw;
     height: 50vh;
-    font-size: 60px;
-    display:flex;
-    justify-content:center;
-    align-items:center
+    display: flex;
+    font-size: 64px;
+
+    justify-content: center;
+    align-items: center
   }
- }
-.p{
+}
+
+.p {
   width: 100%;
   height: 100%;
   justify-content: center;
@@ -1175,7 +1187,7 @@ header .navbar .dropdown-menu a:hover {
 
 .pdspan p {
   font-family: "Roboto", sans-serif;
-  font-size: calc(0.7rem + 0.2vw);
+  font-size: 17px;
   font-weight: 300;
   text-align: left;
   margin-top: 2rem;
