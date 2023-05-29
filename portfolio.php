@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>About | Making Interior</title>
+    <title>About | Elements</title>
  
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -30,7 +30,7 @@
    <!--open graph meta tags for social sites and search engines-->
    <meta property="og:locale" content="en_US" />
    <meta property="og:type" content="website" />
-   <meta property="og:title" content="Making Interior" />
+   <meta property="og:title" content="Elements" />
    <meta property="og:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
    <meta property="og:url" content="https://makinginterior.com" />
    <meta property="og:site_name" content="makinginterior.com" />
@@ -41,7 +41,7 @@
    <!--twitter description-->
    <meta name="twitter:card" content="summary_large_image" />
    <meta name="twitter:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
-   <meta name="twitter:title" content="Making Interior" />
+   <meta name="twitter:title" content="Elements" />
    <meta name="twitter:site" content="@makinginterior" />
    <meta name="twitter:image" content="https://makinginterior.com/assets/img/logo1.jpeg" />
    <meta name="twitter:creator" content="@makinginterior" />
@@ -82,11 +82,17 @@
 <body>
 
     <?php include 'layouts/header.php'; ?>
+    <section>
+<div>
+<a class="float" href="https://api.whatsapp.com/send?phone=+9977400064&amp;text=Hello%20i%20have%20an%20enquiry.">
+<iconify-icon icon="icomoon-free:whatsapp" style="color: white;" width="30"></iconify-icon> </a>
+</div>
+</section>
     <section class="img-fluid">
         <div class="porthead img-fluid">
             <div class="centered1">
                 <h1>Portfolio</h1>
-                <p>Home <span style='font-size:15px; color:#e4883a'>&#9632;</span> Portfolio </p>
+                <p>Home <span style='font-size:15px; color:#000000'>&#9632;</span> Portfolio </p>
                 <div class="positon-absolute">
                 </div>
             </div>

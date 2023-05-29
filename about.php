@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>About | Making Interior</title>
+    <title>About | Elements</title>
  
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +27,7 @@
    <!--open graph meta tags for social sites and search engines-->
    <meta property="og:locale" content="en_US" />
    <meta property="og:type" content="website" />
-   <meta property="og:title" content="Making Interior" />
+   <meta property="og:title" content="Elements" />
    <meta property="og:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
    <meta property="og:url" content="https://makinginterior.com" />
    <meta property="og:site_name" content="makinginterior.com" />
@@ -38,7 +38,7 @@
    <!--twitter description-->
    <meta name="twitter:card" content="summary_large_image" />
    <meta name="twitter:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
-   <meta name="twitter:title" content="Making Interior" />
+   <meta name="twitter:title" content="Elements" />
    <meta name="twitter:site" content="@makinginterior" />
    <meta name="twitter:image" content="https://makinginterior.com/assets/img/logo1.jpeg" />
    <meta name="twitter:creator" content="@makinginterior" />
@@ -79,12 +79,18 @@
 <body>
 
     <?php include 'layouts/header.php'; ?>
+    <section>
+<div>
+<a class="float" href="https://api.whatsapp.com/send?phone=+9977400064&amp;text=Hello%20i%20have%20an%20enquiry.">
+<iconify-icon icon="icomoon-free:whatsapp" style="color: white;" width="30"></iconify-icon> </a>
+</div>
+</section>
     
     <section class="img-fluid">
         <div class="abouthead img-fluid">
             <div class="centered">
                 <h1>About</h1>
-                <p>Home <span style='font-size:15px; color:#e4883a'>&#9632;</span> About </p>
+                <p>Home <span style='font-size:15px; color:#000000'>&#9632;</span> About </p>
                 <div class="positon-absolute">
                     <img src="assets/img/Line.svg" alt="Line" width="100" height="70">
                 </div>
@@ -97,52 +103,55 @@
     <section>
         <div class="container mt-5 pt-5">
         <div class="row">
-            <div class="col-md-6 col-lg-6 col-sm-12 abb">
-                <h1><span style='font-size:25px; color:#e4883a'>&#9632;</span> A few words <br>
+            <div class="col-md-6 col-lg-6 col-sm-12 p-5 ">
+                <h1><span style='font-size:25px; color:#000000'>&#9632;</span> A few words <br>
                     about us</h1>
+                    <container > 
+                    <img src="assets/img/grid3.webp" loading="lazy" class="img-fluid" alt="image">
 
+                    </container>
+                    <h1>Why Choose Elements</h1>
+                    <h5>Expertise</h5>
+                    <p>With over a decade of industry experience, our skilled professionals bring unparalleled expertise to every project.</p>
+                    <h5>Tailored Solutions</h5>
+                    <p>We create customized lighting designs and automation systems to perfectly suit your unique needs and style.</p>
+                    <h5>Premium Quality</h5>
+                    <p> We source top-quality products from reputable brands, ensuring durability and stunning aesthetics.</p>
+                    <h5>Seamless Integration</h5>
+                    <p>Our team seamlessly integrates lighting, automation, and audiovisual systems for a cohesive experience.</p>
             </div>
             <div class="col-md-6 col-lg-6 col-sm-12 abb1">
                 <img src="assets/img/aboutex.webp" loading="lazy" alt="" height="500vh">
-                <span class="span1">14</span><span class="span2">+</span>
+                <span class="span1">08</span><span class="span2">+</span>
                 <h5>years of Experience</h5>
-                <p class="mt-5 about-p">Making Interior is a self-taught artist and interior designer by profession.</p>
-                <p class="about-p">
-                    He is an Information Technology Engineer by qualification. But, His love for art and owing to his
-                    urge
-                    to create art, he later found his silver lining, and is currently climbing his steps in the world of
-                    art.
+               
+                
+                <p class="about-p">Elements by Electrical Quorom began its remarkable journey with a simple yet ambitious vision: to redefine the way we perceive lighting and automation. Founded in Raipur by Nitin Agrawal, a visionary in the electrical industry, our studio quickly gained recognition for pioneering customized lighting solutions in Chhattisgarh. Collaborating closely with esteemed architects and interior designers, we embarked on a mission to infuse spaces with enchantment, transcending the boundaries of illumination. With every project, we strive to bring out the best in structures and living spaces, using the strategic placement of lights and accessories. Our unwavering commitment to excellence ensures that each undertaking radiates with brilliance, transforming mere spaces into captivating experiences. Embrace our story and embark on a journey where innovation, passion, and expertise converge to create illuminating wonders.																								
                     .</p>
-                <p class="about-p">Interior hails from a small town named Batauli which is in Chhattisgarh a state in the central part
-                    of
-                    India, but to pursue his higher education, Prakash later moved to Bilaspur, Chhattisgarh</p>
-                <hr class="line1">
-                <p class="about-p">It goes without saying that he has a knack for pouring his soul into his work and strives to create
-                    something with a metaphysical element every time, to portray something which transcends the world.
-                    Coming from humble beginnings, he lives by the quote, “Lack of resources is just an excuse, if you
-                    are
-                    severe towards it, you can find a way.” Similar philosophies have shaped and embellished Making
-                    Interior
-                    path till now and these beliefs have also undoubtedly changed his life.
-                    .</p>
-                <p class="about-p">In 2015 making Interior realised his prowess when it comes to painting. Since then, his ideas have
+                <p class="about-p">In 2015 Elements realised his prowess when it comes to painting. Since then, his ideas have
                     manifested on the canvas</p>
                 <div class="aboutlist">
                     <ul>
                         <li>
-                            Automation
+                            <a href="homeautomation.php" style="color:black">Automation</a>
+                            
                         </li>
                         <li>
-                            Modular Kitchen
+                        <a href="modularkitchen.php" style="color:black"> Modular Kitchen</a>
+
                         </li>
                     </ul>
 
                     <ul>
                         <li>
-                            Lighting
+                        <a href="lighting.php" style="color:black"> Lighting</a>
+
+                            
                         </li>
                         <li>
-                            Theater And Audio
+                        <a href="Theatres.php" style="color:black">Theater And Audio</a>
+
+                            
                         </li>
                     </ul>
                 </div>
@@ -154,11 +163,11 @@
 
     <section>
         <div class="container mt-5 ">
-            <h1> <span style='font-size:30px; color:#e4883a'>&#9632;</span>Featured Work</h1>
+            <h1> <span style='font-size:30px; color:#000000'>&#9632;</span>Featured Work</h1>
             <div class="row mt-5">
                 <div class="col-md-6 col-lg-6 abb1">
-                    <img src="assets/img/feature1.webp" loading="lazy" alt="..."  class="feature-img">
-                    <h3 >dreaming midnight</h3>
+                    <img src="assets/img/1.png" loading="lazy" alt="..."  class="feature-img">
+                     <h3 style="padding-top:5px">dreaming midnight</h3>
                     <p class="abp1">
                         Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla
                         facilisi
@@ -166,16 +175,16 @@
 
                 </div>
                 <div class="col-md-6 col-lg-6 abb1 mt-5">
-                    <img src="assets/img/feature2.webp" loading="lazy" alt="..." class="feature-img">
-                    <h3 class="heade">pretty creative ideas</h3>
+                    <img src="assets/img/333.png" loading="lazy" alt="..." class="feature-img">
+                    <h3 style="padding-top:5px" class="heade">pretty creative ideas</h3>
                     <p class="abp1">
                         Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla
                         facilisi
                         .</p>
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-12 abb1">
-                    <img src="assets/img/feature3.webp" loading="lazy" alt="..." class="feature-img">
-                    <h3>dreaming midnight</h3>
+                    <img src="assets/img/32.png" loading="lazy" alt="..." class="feature-img">
+                     <h3 style="padding-top:5px">dreaming midnight</h3>
                     <p class="abp1">
                         Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla
                         facilisi
@@ -183,8 +192,8 @@
 
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-12 abb1 mt-5">
-                    <img src="assets/img/feature4.webp" loading="lazy" alt="..." class="feature-img">
-                    <h3>pretty creative ideas</h3>
+                    <img src="assets/img/13.png" loading="lazy" alt="..." class="feature-img">
+                    <h3 style="padding-top:5px">pretty creative ideas</h3>
                     <p class="abp1">
                         Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla
                         facilisi
@@ -224,7 +233,7 @@
             <div>
                 <h5 class="hide-mobile1">instagram</h5>
                 <img src="assets/img/Line.svg" alt="" class="line hide-mobile1">
-                <span style='font-size:30px; color:#e4883a' class="hide-mobile1">&#9632;</span>
+                <span style='font-size:30px; color:#000000' class="hide-mobile1">&#9632;</span>
 
             </div>
         </div>

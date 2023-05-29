@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Project Detail | Making Interior</title>
+    <title>Project Detail | Elements</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
@@ -23,7 +23,7 @@
     <!--open graph meta tags for social sites and search engines-->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Making Interior" />
+    <meta property="og:title" content="Elements" />
     <meta property="og:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
     <meta property="og:url" content="https://makinginterior.com" />
     <meta property="og:site_name" content="makinginterior.com" />
@@ -34,7 +34,7 @@
     <!--twitter description-->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
-    <meta name="twitter:title" content="Making Interior" />
+    <meta name="twitter:title" content="Elements" />
     <meta name="twitter:site" content="@makinginterior" />
     <meta name="twitter:image" content="https://makinginterior.com/assets/img/logo1.jpeg" />
     <meta name="twitter:creator" content="@makinginterior" />
@@ -74,6 +74,12 @@
 <body>
 
     <?php include 'layouts/header.php'; ?>
+    <section>
+<div>
+<a class="float" href="https://api.whatsapp.com/send?phone=+9977400064&amp;text=Hello%20i%20have%20an%20enquiry.">
+<iconify-icon icon="icomoon-free:whatsapp" style="color: white;" width="30"></iconify-icon> </a>
+</div>
+</section>
 
     <section>
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
@@ -91,8 +97,8 @@
     <section>
         <div class="container procon" style="max-width:55%;">
             <div class="pdspan">
-                <span>Home</span><span style='font-size:13px; color:#e4883a'>&#9632;</span> <span>Interior Design</span>
-                <span style='font-size:13px; color:#e4883a'>&#9632;</span> <span>Dreamy Midnight</span>
+                <span>Home</span><span style='font-size:13px; color:#000000'>&#9632;</span> <span>Interior Design</span>
+                <span style='font-size:13px; color:#000000'>&#9632;</span> <span>Dreamy Midnight</span>
 
                 <h1>Dreamy Midnight</h1>
                 <h5>About this project</h5>
@@ -150,7 +156,7 @@
     <section class="pt-5">
         <div class="container">
             <div class="pdspan">
-                <h1> <span style='font-size:35px; color:#e4883a'>&#9632;</span>You may also like:</h1>
+                <h1> <span style='font-size:35px; color:#000000'>&#9632;</span>You may also like:</h1>
 
             </div>
             <div class="container something">

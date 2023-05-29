@@ -107,7 +107,7 @@
   margin-bottom: 30px;
 }
 .contact-wrap .contact-info {
-  background: #e4883a;
+  background: #000000;
 }
 .contact-wrap .contact-info h3 {
   color: #fff;
@@ -117,7 +117,7 @@
 
 label.error {
   font-size: 12px;
-  color: #e4883a;
+  color: #000000;
 }
 
 #message {

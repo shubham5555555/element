@@ -4,6 +4,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -516,7 +517,7 @@ mark {
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
-  border: 1px solid #e4883a;
+  border: 1px solid #000000;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
@@ -5161,9 +5162,8 @@ input[type="submit"].btn-block {
 .card-img-top {
   width: 100%;
   --s: 250px;   /* the size of the image */
-  --b: 4px;     /* the border thickness*/
+  --b: 3px;     /* the border thickness*/
   --g: 2px;    /* the gap */
-  --c: #000000; /* the color */
   
   aspect-ratio: 1;
   outline-offset: calc(var(--s)/-2);
@@ -5176,14 +5176,11 @@ input[type="submit"].btn-block {
 }
 
 .card-img-top:hover {
-  --b: 4px;     /* the border thickness*/
+  --b: 3px;     /* the border thickness*/
   --g: 2px;    /* the gap */
-  --c: #000000; /* the color */
-  outline: var(--b) solid var(--c);
+  ; /* the color */
   overflow: hidden;
-
-  padding: 5px;
-  outline-offset: var(--g);
+  transform: scale(1.08); 
 }
 
 .card-img-bottom {
@@ -6859,7 +6856,7 @@ a.close.disabled {
   content: "";
 }
 
-.carousel-item {
+.carousel-item{
   position: relative;
   display: none;
   float: left;
@@ -6871,6 +6868,103 @@ a.close.disabled {
   transition: transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
 }
+.carousel-item-back {
+  background-image:url(../img/banners.png );
+  background-repeat:round;
+  height:100vh;
+  align-items: center; 
+  display: flex;
+  padding-left: 5vw;
+  justify-content: left;
+  align-content: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight:600;
+  color: white;
+  font-size: 48px;
+
+}
+@media (min-width: 576px) { 
+  .carousel-item-back {
+    background-repeat:round;
+    height:50vh;
+    justify-content: center;
+    font-size: 28px;
+    text-align: center;
+
+  
+  }
+
+ }
+ @media (min-width: 390px) { 
+  .carousel-item-back {
+    background-repeat:round;
+    height:50vh;
+        justify-content: center;
+    
+    font-size: 22px;
+    text-align: center;
+
+
+  
+  }
+
+ }
+ @media (min-width: 280px) { 
+  .carousel-item-back {
+    background-repeat:round;
+    height:50vh;
+    justify-content: center;
+    font-size: 22px;
+    text-align: center;
+
+
+  
+  }
+
+ }
+
+@media (min-width: 768px) {  
+  .carousel-item-back {
+    background-repeat:round;
+    height:50vh;
+    font-size: 32px;
+    text-align: center;
+
+
+  
+  }
+}
+
+@media (min-width: 992px) { 
+  .carousel-item-back {
+    background-repeat:round;
+    height:100vh;
+    font-size: 38px;
+
+  
+  }
+ }
+
+@media (min-width: 1200px) { 
+  .carousel-item-back {
+    background-repeat:round;
+    height:100vh;
+    text-align: left;
+  
+  }
+ }
+
+@media (min-width: 1400px) { 
+  .carousel-item-back {
+    background-repeat:round;
+    height:100vh;
+    font-size: 42px;
+    justify-content: left;
+    text-align:left;
+
+  
+  }
+ }
 
 @media (min-width: 576px) { 
   .c-text{
@@ -6922,6 +7016,7 @@ a.close.disabled {
     transition: none;
   }
 }
+
 
 .carousel-item-next,
 .carousel-item-prev,

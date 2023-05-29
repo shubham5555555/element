@@ -38,7 +38,7 @@ if (isset($_POST['submit'])) {
     try {
       //============== only change here==============
       // website name
-      $webName = "Enquiry From Making Interior Website";
+      $webName = "Enquiry From Elements Website";
       //Set the SMTP server to send through
       $host = "mail.beamingindia.com";
       // SMTP password
@@ -46,7 +46,7 @@ if (isset($_POST['submit'])) {
       // SMTP username
       $fromMail = 'makinginterior@beamingindia.com';
       // from Mail Name 
-      $fromMailName = 'Making Interior';
+      $fromMailName = 'Elements';
       // recipient Mail $email
       $toEmail = 'makinginteriors@gmail.com';
       // recipient Mail Name

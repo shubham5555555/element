@@ -88,6 +88,12 @@
 <body>
    <?php include 'layouts/header.php'; ?>
    <section>
+<div>
+<a class="float" href="https://api.whatsapp.com/send?phone=+9977400064&amp;text=Hello%20i%20have%20an%20enquiry.">
+<iconify-icon icon="icomoon-free:whatsapp" style="color: white;" width="30"></iconify-icon> </a>
+</div>
+</section>
+   <section>
       <div class="wrapper">
          <div class="leftshare">
             <div class="carousel slide">
@@ -98,8 +104,7 @@
                         <a href="about.php"> <button class="mt-lg-5 mt-md-3 mt-3   btn-s pe-5 btn btn-success" style="color: #FFFFFF; background-color: #d3011c; border-color:#d3011c;">About Us
                               <img src="assets/img/Arrow.svg" alt=""></button></a>
                      </div> -->
-                     <img class="d-block w-100" src="assets/img/element/studio/sourabh.png" alt="Simplifystudio banner" class="img-fluid">
-                     
+                     <div class=" w-100 image-fluid carousel-item-back" >Enlighten Your Spaces,</br> Elevate Your Experience
                   </div>
                </div>
             </div>
@@ -125,7 +130,7 @@
                         <p class="text-muted1">Do you realize that if you fall into a black hole, you will see the entire future of the Universe unfold in front of you in a matter of moments
                            and you will emerge into another space-time created by the singularity of the black hole you just fell into?
                         </p>
-                        <a href="about.php"> <button class="mt-lg-5 mt-md-3 mt-4   btn-s pe-5 btn btn-success" style="color: #FFFFFF; background-color: #EF7F1A; border-color:#EF7F1A;">About Us
+                        <a href="about.php"> <button class="mt-lg-5 mt-md-3 mt-4   btn-s pe-5 btn btn-success" style="color: #FFFFFF; background-color: #000000; border-color:#000000;">About Us
                               <img src="assets/img/Arrow.svg" alt=""></button></a>
                      </div>
                   </ul>
@@ -151,34 +156,34 @@
       </div>
       <div>
          <div class="card-group">
-            <div class="card">
-               <img class="card-img-top" src="assets/img/element/a23.png" loading="lazy" alt="Card image cap">
+            <a href="homeautomation.php" class="card">
+               <img class="card-img-top" src="assets/img/333.png" loading="lazy" alt="Card image cap">
                <div class="card-body p-4">
-                  <p class="card-muted titemaingo">Home Automation</p>
-                  <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
+                  <p class="card-muted titemaingo" >Home Automation</p>
+                  <p class="card-title cardmaingo" style="color:grey">Automate and elevate your lifestyle with personalized convenience.</p>
                </div>
-            </div>
-            <div class="card mt-5">
-               <img class="card-img-top" src="assets/img/element/a21.png" loading="lazy" alt="Card image cap">
+   </a>
+            <a href="modularkitchen.php" class="card mt-5">
+               <img class="card-img-top" src="assets/img/31.png" loading="lazy" alt="Card image cap">
                <div class="card-body p-4">
                   <p class="card-muted titemaingo">Modular Kitchen</p>
-                  <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
+                  <p class="card-title cardmaingo" style="color:grey">Transform culinary spaces, indulge in culinary craftsmanship.</p>
                </div>
-            </div>
-            <div class="card ">
-               <img class="card-img-top" src="assets/img/element/a2.png" loading="lazy" alt="Card image cap">
+            </a>
+            <a href="lighting.php" class="card ">
+               <img class="card-img-top" src="assets/img/12.png" loading="lazy" alt="Card image cap">
                <div class="card-body p-4">
                   <p class="card-muted titemaingo">Lighting Solution</p>
-                  <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
+<p class="card-title cardmaingo" style="color:grey">  Illuminate your world with bespoke brilliance.</p>
                </div>
-            </div>
-            <div class="card mt-5">
-               <img class="card-img-top" src="assets/img/element/a21.png" loading="lazy" alt="Card image cap">
+   </a>
+            <a href="Theaters.php" class="card mt-5">
+               <img class="card-img-top" src="assets/img/1.png" loading="lazy" alt="Card image cap">
                <div class="card-body p-4">
                   <p class="card-muted titemaingo">Theater And Audio-visual Solution</p>
-                  <p class="card-title cardmaingo">Sed vel eros quis mauris iaculis imperdiet. Pellentrat nec dolor ornare digni at eu risus. Nulla facilisi</p>
+                  <p class="card-title cardmaingo" style="color:grey">Unleash cinematic magic, elevate your home entertainment experience.</p>
                </div>
-            </div>   
+   </a>   
          </div>
       </div>
       <!-- <div class="mt-5 text-center">
@@ -262,6 +267,55 @@
          <a href="blog.php"> <button class="   pe-5 btn btn-success" style="color: #FFFFFF; background-color: #d3011c; border-color:#d3011c;">Read More <img src="assets/img/Arrow.svg" alt=""></button></a>
       </div> -->
    </section>
+   <section>
+   <div style="padding-left:10vw;padding-right:10vw">
+         <h1 class="text-center project mt-5 py-5">Showcase</h1>
+         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+               <div class="carousel-item active">
+                  <div class="numbertextre"> <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <img src="assets/img/deactive1.svg" alt="">
+                     </a>
+                     <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <img src="assets/img/active1.svg" alt="">
+                     </a>
+                  </div>
+                  <img class="d-block w-100" src="assets/img/theaterbanner.jpg" loading="lazy" alt="First slide">
+               </div>
+               <div class="carousel-item">
+                  <div class="numbertextre"> <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <img src="assets/img/deactive1.svg" alt="">
+                     </a>
+                     <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <img src="assets/img/active1.svg" alt="">
+                     </a>
+                  </div>
+                  <img class="d-block w-100" src="assets/img/theaterbanner.jpg" loading="lazy" alt="Second slide">
+               </div>
+               <div class="carousel-item">
+                  <div class="numbertextre"> <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <img src="assets/img/deactive1.svg" alt="">
+                     </a>
+                     <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <img src="assets/img/active1.svg" alt="">
+                     </a>
+                  </div>
+                  <img class="d-block w-100 " src="assets/img/theaterbanner.jpg" loading="lazy" alt="Third slide">
+               </div>
+            </div>
+         </div>
+         <div class="containerreex container">
+            <h6>January, 2023</h6>
+            <h5>Elevate Your Entertainment Experience</h5>
+            <div>
+              <p>Step into a world of immersive entertainment where captivating visuals and powerful sound converge. Unlock the full potential of our theaters and audio visual solutions to elevate your entertainment experience to new heights. Immerse yourself in the wonders of technology and embark on a journey where every moment becomes a memorable masterpiece.</p>
+            </div>
+            <div class="mt-5">
+               <a href="Theatres.php"> <button class=" p-2 pe-5 btn btn-success" style="color: #FFFFFF; background-color: #000000; border-color:#000000;">Read More <img src="assets/img/Arrow.svg" alt=""></button></a>
+            </div>
+         </div>
+      </div>
+   </section>
   
    <section class="mt-5 py-5 ">
       <div class="container-fluid" style="height: 90vh; background-image:url('assets/img/element/studio/d3.jpg');  background-repeat: no-repeat; background-size: cover;  ">
@@ -306,7 +360,7 @@
          </div>
       </div>
       <div class="mt-5 text-center">
-         <a href="#"> <button class="   pe-5 btn btn-success" style="color: #FFFFFF; background-color: #e4883a; border-color:#e4883a;">Read More <img src="assets/img/Arrow.svg" alt=""></button></a>
+         <a href="#"> <button class="   pe-5 btn btn-success" style="color: #FFFFFF; background-color: #000000; border-color:#000000;">Read More <img src="assets/img/Arrow.svg" alt=""></button></a>
       </div>
    </section>
 
@@ -315,12 +369,12 @@
       <div class="container-fluid p-0">
          <div class="left containerbpro">
             <div class="containerbang p-5 hide-mobile">
-               <h1><span style="font-size:22px;color:#002BDC;font">■</span> Project Raipur</h1>
+               <h1><span style="font-size:22px;color:#e5883d;font">■</span> Project Raipur</h1>
               <div class="container pl-4 pr-4">
               <p class="mt-5">Do you realize that if you fall into a black hole, you will see the entire future of the Universe unfold in front of you in a matter of moments and you will emerge into another space-time created by the singularity of the black hole you just fell into?
                </p>
                <div class="mt-5">
-                  <a href="#"> <button class="   pe-5 btn btn-success" style="color: #FFFFFF; background-color: #e4883a; border-color:#e4883a;">Read More
+                  <a href="#"> <button class="   pe-5 btn btn-success" style="color: #FFFFFF; background-color: #000000; border-color:#000000;">Read More
                         <img src="assets/img/Arrow.svg" alt=""></button></a>
                </div>
               </div>
@@ -336,46 +390,37 @@
       <div class="container " style="
     padding-bottom: 120px" >
          <div class="row">
-            <div class="col-md-6  col-lg-4 p-2">
-               <img src="assets/img/element/studio/d5.jpg" loading="lazy" class="img-fluid" alt="image">
+            <div class="col-md-6  col-lg-4 p-2 ">
+               <img src="assets/img/111.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4 p-2 ">
-               <img src="assets/img/element/studio/d15.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/222.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4 p-2 ">
-               <img src="assets/img/element/studio/d12.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/333.png" loading="lazy" class="img-fluid card-img-top " alt="image">
             </div>
             <div class="col-md-6  col-lg-4  p-2">
-               <img src="assets/img/element/studio/d10.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/11.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4  p-2">
-               <img src="assets/img/element/studio/d9.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/12.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4  p-2">
-               <img src="assets/img/element/studio/d10.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/13.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4  p-2">
-               <img src="assets/img/element/studio/d11.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/31.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4 p-2 ">
-               <img src="assets/img/element/studio/d12.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/32.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
             <div class="col-md-6  col-lg-4 p-2   ">
-               <img src="assets/img/element/studio/d15.jpg" loading="lazy" class="img-fluid" alt="image">
+               <img src="assets/img/33.png" loading="lazy" class="img-fluid card-img-top" alt="image">
             </div>
          </div>
 
       </div>
    </section>
-  
-
-
-
-  
-   
-    
-   
-
    <?php include 'layouts/footer.php'; ?>
    <script src="assets/js/jquerymin.js"></script>
    <script src="assets/js/popper.min.js"></script>

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Project Detail | Making Interior</title>
+    <title>Lighting| Elements</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
@@ -23,7 +23,7 @@
     <!--open graph meta tags for social sites and search engines-->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Making Interior" />
+    <meta property="og:title" content="Elements" />
     <meta property="og:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
     <meta property="og:url" content="https://makinginterior.com" />
     <meta property="og:site_name" content="makinginterior.com" />
@@ -34,7 +34,7 @@
     <!--twitter description-->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Interior designers work closely with architects and builders to ensure that the final result meets the functional and aesthetic needs of the client. With the use of color, lighting, textures, and furniture, an interior designer can transform a dull and lifeless space into a beautiful and functional one. Whether it's a residential or commercial project, an interior designer can help make the most of any space, big or small." />
-    <meta name="twitter:title" content="Making Interior" />
+    <meta name="twitter:title" content="Elements" />
     <meta name="twitter:site" content="@makinginterior" />
     <meta name="twitter:image" content="https://makinginterior.com/assets/img/logo1.jpeg" />
     <meta name="twitter:creator" content="@makinginterior" />
@@ -74,6 +74,12 @@
 <body>
 
     <?php include 'layouts/header.php'; ?>
+    <section>
+<div>
+<a class="float" href="https://api.whatsapp.com/send?phone=+9977400064&amp;text=Hello%20i%20have%20an%20enquiry.">
+<iconify-icon icon="icomoon-free:whatsapp" style="color: white;" width="30"></iconify-icon> </a>
+</div>
+</section>
 
     <section>
         <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
@@ -93,15 +99,16 @@
     <section>
         <div class="container procon" style="max-width:55%;">
             <div class="pdspan">
-                <span>lighting</span><span style='font-size:13px; color:#e4883a'>&#9632;</span> <span>decor</span>
-                <span style='font-size:13px; color:#e4883a'>&#9632;</span> <span>Products</span>
+                <span>lighting</span><span style='font-size:13px; color:#e5883d'>&#9632;</span> <span>decor</span>
+                <span style='font-size:13px; color:#e5883d'>&#9632;</span> <span>Products</span>
 
-                <h1>Dreamy Midnight</h1>
-                <h5>About this project</h5>
-                <p>Best Interior Designers for Showrooms in Bangalore, we are offering a broad assortment of Showroom Interior Designing Services to our customers. These services are rendered with following industry standards. Offered services are executed under the supervision of inspectors of quality to ensure accurate service to the customers.</p>
-                <p>Our restaurant interior designs focus on providing your customers' warmth, comfort, coziness, and relaxation. These services are rendered with following industry standards. Offered services are executed under the supervision of inspectors of quality to ensure accurate service to the customers that they are comfortable.</p>
-                <p>Hospitality Design is the leading commercial interior design publication, we are offering a broad assortment of Hospitality Interior Designing Services to our customers. These services are rendered with following industry standards. Offered services are executed under the supervision of inspectors of quality to ensure accurate service to the customers.</p>
-                <p>We are a specialist in manufacturing quality wood, metal, stainless steel Modular kitchen at affordable price. Our expertise customizes sophisticated designs for your dream kitchen for your satisfactory level.We offer L-Shaped Modular Kitchen, U-Shaped Modular Kitchen, Straight Modular Kitchen, Parallel Modular Kitchen etc.</p>
+                <h1>Lighting Solution</h1>
+                <h5 style="padding-top:20px">Tailored Brilliance for Every Space</h5>
+                <p>From residential to commercial projects, our expert light designers curate tailored lighting plans that breathe life into any space. With a deep understanding of the interplay between light and shadow, we harness the power of illumination to enhance aesthetics, evoke moods, and create a harmonious ambiance that resonates with your vision.</p>
+                <h5 style="padding-top:20px">Unleash the Magic of Customization</h5>
+                <p>Just as every space has its unique character, we believe lighting should be an expression of individuality. Our extensive range of lighting fixtures, from elegant chandeliers to sleek wall sconces and innovative LED solutions, allows you to curate an atmosphere that reflects your personal style and amplifies the essence of your space.</p>
+                <h5 style="padding-top:20px">Beyond Ordinary Illumination</h5>
+                <p>We go beyond the boundaries of traditional lighting, embracing cutting-edge technologies and innovative design concepts to elevate your lighting experience. From dynamic color-changing systems to smart lighting control, our solutions provide versatility and adaptability, enabling you to create scenes that suit any occasion and transcend the ordinary.</p>
             </div>
         </div>
     </section>
@@ -152,7 +159,7 @@
     <section class="pt-5">
         <div class="container">
             <div class="pdspan">
-                <h1> <span style='font-size:35px; color:#e4883a'>&#9632;</span>You may also like:</h1>
+                <h1> <span style='font-size:35px; color:#e5883d'>&#9632;</span>You may also like:</h1>
 
             </div>
             <div class="container something">

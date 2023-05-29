@@ -91,8 +91,8 @@
     <section>
         <div class="container procon" style="max-width:55%;">
             <div class="pdspan">
-                <span>Home</span><span style='font-size:13px; color:#e4883a'>&#9632;</span> <span>Interior Design</span>
-                <span style='font-size:13px; color:#e4883a'>&#9632;</span> <span>Dreamy Midnight</span>
+                <span>Home</span><span style='font-size:13px; color:#000000'>&#9632;</span> <span>Interior Design</span>
+                <span style='font-size:13px; color:#000000'>&#9632;</span> <span>Dreamy Midnight</span>
 
                 <h1>Dreamy Midnight</h1>
                 <h5>About this project</h5>
